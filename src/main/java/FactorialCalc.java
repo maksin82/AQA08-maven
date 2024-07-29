@@ -1,4 +1,4 @@
-public class Factorial {
+public class FactorialCalc {
     static int calcFactorial(int n) {
         if (n < 0) {
             throw new IllegalArgumentException("n должно быть натуральным числом");
